@@ -1,0 +1,2 @@
+model.MyConnection
+model.publlic
