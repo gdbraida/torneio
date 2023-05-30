@@ -24,7 +24,8 @@
     </head>
     <body>
         <form action="login_controller" method="post">
-            <img src="img/logotipo.png" alt="Logotipo do site" width="200"/>
+            <main> 
+            <img src="img/lolz.png" alt="Logotipo do site" width="200"/>
             <br>
             <input type="text" name="user" id="user" class="fields" placeholder="Apelido" required>
             <br><br>
@@ -33,6 +34,9 @@
             <br><br>
             
             <input type="submit" value="Entrar">
+            
+            <div class="buttons">
+  
         </form>
     </body>
 </html>
